@@ -1,4 +1,5 @@
-package conferenceRegistrattion.service;
+package conferenceRegistration.service;
+
 
 import java.util.List;
 
